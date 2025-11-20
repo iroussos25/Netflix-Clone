@@ -1,5 +1,5 @@
 import React from 'react'
-import 'TitleCards.css'
+import './TitleCards.css'
 
 const TitleCards = () => {
   return (
